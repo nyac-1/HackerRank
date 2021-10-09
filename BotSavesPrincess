@@ -4,6 +4,7 @@ global pos2  # position of princess
 global op  # possible moves
 global res  # selected move in order
 #commented line for pr
+#test2
 
 n = int(input())
 op = list()
