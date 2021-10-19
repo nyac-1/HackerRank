@@ -2,11 +2,8 @@ How to sync a fork?
 
 git remote add upstream <fork url>
 git fetch upstream
-git rebase upstream/master(main)
-git checkout master
 git merge upstream/master(main)
-
-
+git push
 
 Master Ack: 1
 
